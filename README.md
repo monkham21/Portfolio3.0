@@ -2,7 +2,7 @@
 
 This project involves creating a simple portfolio website to showcase my projects and skills.
 
-###Key Features:
+### Key Features:
 
 1.Bio Section: The introduction section describing about me.
 2.Projects Section:  A dedicated section to showcase my projects. 
@@ -10,14 +10,14 @@ This project involves creating a simple portfolio website to showcase my project
 4.Career and Education History: A section where to describe my background information on work and education.
 5.Contact Me: An information section where visitors can reach out to my for collaborations, inquiries, or networking opportunities.
 
-###Technologies Used:
+### Technologies Used:
 
 HTML: For structuring the web pages.
 CSS and Bootstrap: For styling the website and making it visually appealing.
 GitHub Pages: For hosting the website.
 
 
-###Benefits:
+### Benefits:
 
 Establishing an online presence and professional identity.
 Showcasing my projects and skills to potential employers, clients, or collaborators.
